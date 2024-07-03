@@ -1,5 +1,5 @@
 ---
-title: OpenGPT 4o
+title: AlvanAI
 emoji: 🔥
 colorFrom: blue
 colorTo: indigo
